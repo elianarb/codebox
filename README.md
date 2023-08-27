@@ -30,7 +30,10 @@ videos demostrativos.
 búsqueda interna, suscripción al blog.
 
 ### 6. Integrantes del Equipo y Representante:
-- Equipo:Patricia Feltan, Matias Murad, Franco Miranda, Ricardo Torales.
+- Patricia Feltan
+- Matias Murad
+- Franco Miranda
+- Ricardo Torales
 
 ### 7. Cronograma Tentativo:
 - Diseño y planificación: 31/08/2023
