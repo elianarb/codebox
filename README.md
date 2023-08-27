@@ -52,3 +52,17 @@ al cliente en tiempo real.
 
 ### 11. Fecha de Entrega:
 - Tentativa Jueves 19/10/2023.
+
+### 11. Checklis de pautas:
+- [ ] Contenido
+- [ ] Etiquetas semánticas
+- [x] Formulario
+- [ ] Diseño estético
+- [ ] Diseño responsive
+- [ ] Dinamismo visual
+- [ ] Maquetación
+- [x] API
+- [ ] Framework de CSS
+- [x] Publicación y GIT
+- [ ] Diseño Integral del Proyecto
+- [x] Documentación
