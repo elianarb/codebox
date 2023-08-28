@@ -56,7 +56,7 @@ al cliente en tiempo real.
 ### 11. Fecha de Entrega:
 - Tentativa Jueves 19/10/2023.
 
-### 11. Checklis de pautas:
+### 12. Checklis de pautas:
 - [ ] Contenido
 - [ ] Etiquetas semánticas
 - [x] Formulario
@@ -69,3 +69,6 @@ al cliente en tiempo real.
 - [x] Publicación y GIT
 - [ ] Diseño Integral del Proyecto
 - [x] Documentación
+
+### 13. Paleta de colores:
+- [Paleta](https://coolors.co/visualizer/0000b8-008080-4666ff-39ff14-343434)
