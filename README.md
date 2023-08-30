@@ -10,7 +10,7 @@
 - Público: Todo aquel que busque interiorizarse en el desarrollo de aplicaciones web.
 
 ### 3. Estructura del Sitio:
-- Portada
+- Portada/Home
 - HTML
 - CSS
 - JS
@@ -67,4 +67,4 @@ contacto.
 - [x] Documentación
 
 ### 13. Paleta de colores:
-- [Paleta](https://coolors.co/visualizer/0000b8-008080-4666ff-39ff14-343434)
+- [Paleta](https://coolors.co/visualizer/0000b8-008080-39ff14-343434)
