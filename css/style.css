@@ -2,9 +2,6 @@
   box-sizing: border-box;
 }
 
-
-
-/* Add a gray background color with some padding */
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
@@ -12,7 +9,6 @@ body {
   color: #343434;
 }
 
-/* Header/Blog Title */
 header {
   padding: 30px;
   font-size: 40px;
@@ -42,44 +38,41 @@ nav li a:hover {
   background-color: #39ff14;
   color: darkblue;
 }
+form{
+  width: 95%;
+}
 
-
-/* Create two unequal columns that floats next to each other */
-/* Left column */
 .leftcolumn {
   float: left;
   width: 75%;
 }
 
-/* Right column */
 .rightcolumn {
   float: left;
   width: 25%;
   padding-left: 20px;
 }
 
-/* Fake image */
 .fakeimg {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
 }
 
-/* Add a card effect for articles */
 .card {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Footer */
 footer {
   padding: 20px;
   text-align: center;
@@ -87,7 +80,6 @@ footer {
   margin-top: 20px;
 }
 
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
 
   .leftcolumn,
@@ -151,8 +143,12 @@ button[type=reset]:hover {
   padding: 20px;
 }
 
-
-/* DE AQUI EN ADELANTE REVISAR CONFILICTOS */
+.container::after,
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 .column {
   float: left;
@@ -161,31 +157,22 @@ button[type=reset]:hover {
   padding: 0 8px;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  margin: 8px;
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
 }
+
+/* DE AQUI EN ADELANTE REVISAR CONFILICTOS */
+
+
 
 .about-section {
   padding: 50px;
   text-align: center;
   background-color: #474e5d;
   color: white;
-}
-
-.container {
-  padding: 0 16px;
-}
-
-.container::after,
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.title {
-  color: grey;
 }
 
 /* BOTONES DE ABOUT */
@@ -203,11 +190,4 @@ button[type=reset]:hover {
 
 .button:hover {
   background-color: #555;
-}
-
-@media screen and (max-width: 650px) {
-  .column {
-    width: 100%;
-    display: block;
-  }
 }
