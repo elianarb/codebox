@@ -85,6 +85,12 @@
 - [GITignore.io](https://www.toptal.com/developers/gitignore/)
 - [md2pdf](https://md2pdf.netlify.app/)
 - [caniuse](https://caniuse.com/)
+- [shots](https://shots.so/)
+- [you](https://you.com/)
+- [extract.pics](https://extract.pics/)
+- [hue.tools](https://hue.tools/?format=hex)
+- [devdocs](https://devdocs.io/)
+- [cssloaders](https://cssloaders.github.io/)
 
 ## Documentación
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
