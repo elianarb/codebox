@@ -91,6 +91,7 @@
 - [hue.tools](https://hue.tools/?format=hex)
 - [devdocs](https://devdocs.io/)
 - [cssloaders](https://cssloaders.github.io/)
+- [tinypng](https://tinypng.com/)
 
 ## Documentación
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)

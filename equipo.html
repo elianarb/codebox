@@ -4,6 +4,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/prefixfree.js"></script>
   <title>Code Box</title>
   <link rel="shortcut icon" href="favicon/CodeBox.ico" type="image/x-icon">
 </head>
@@ -16,7 +17,7 @@
       <li><a href="#HTML">HTML</a></li>
       <li><a href="#CSS">CSS</a></li>
       <li><a href="#JS">JS</a></li>
-      <li><a href="#recursos">Recursos</a></li>
+      <li><a href="recursos.html">Recursos</a></li>
       <li><a href="#" style="background-color: #39ff14;">Equipo</a></li>
       <li><a href="contacto.html">Contacto</a></li>
     </ul>
@@ -26,18 +27,18 @@
     <img class="hero" src="images/CodeBox2-1.png" title="Code Box"></a>
   </header>
 
-
-  <div class="about-section">
+  <hgroup>
     <h1>Acerca de nosotros</h1>
     <p>Somos un grupo de aprendices de desarrolladores y tenemos muchas ganas de ayudar a los que estan en nuestra misma
-      situación</p>
-  </div>
+      situación.</p>
+  </hgroup>
 
-  <h2 style="text-align:center">Nuestro equipo</h2>
-  <div class="row">
-    <div class="column">
+  <section class="row">
+    <h2 style="text-align:center">Nuestro equipo</h2>
+
+    <article class="column">
       <div class="card">
-        <img src="images/pato.png" alt="Pato" style="width:100%">
+        <img src="images/profile-pato.png" alt="Pato" style="width:100%">
         <div class="container">
           <h2>Patricia Feltan</h2>
           <p class="title">CEO</p>
@@ -46,11 +47,11 @@
           <p><button class="button">Contáctame</button></p>
         </div>
       </div>
-    </div>
+    </article>
 
-    <div class="column">
+    <article class="column">
       <div class="card">
-        <img src="images/mati.png" alt="Mati" style="width:100%">
+        <img src="images/profile-mati.png" alt="Mati" style="width:100%">
         <div class="container">
           <h2>Matías Pretz</h2>
           <p class="title">Desarrollo</p>
@@ -59,11 +60,11 @@
           <p><button class="button">Contáctame</button></p>
         </div>
       </div>
-    </div>
+    </article>
 
-    <div class="column">
+    <article class="column">
       <div class="card">
-        <img src="images/ric.png" alt="Ric" style="width:100%">
+        <img src="images/profile-ric.png" alt="Ric" style="width:100%">
         <div class="container">
           <h2>Ricardo Torales</h2>
           <p class="title">Director de arte</p>
@@ -72,11 +73,11 @@
           <p><button class="button">Contáctame</button></p>
         </div>
       </div>
-    </div>
+    </article>
 
-    <div class="column">
+    <article class="column">
       <div class="card">
-        <img src="images/fran.png" alt="Fran" style="width:100%">
+        <img src="images/profile-fran.png" alt="Fran" style="width:100%">
         <div class="container">
           <h2>Franco Miranda</h2>
           <p class="title">Diseñador</p>
@@ -85,11 +86,13 @@
           <p><button class="button">Contáctame</button></p>
         </div>
       </div>
-    </div>
-  </div>
+    </article>
+  </section>
+
   <footer>
     <h2>Footer</h2>
   </footer>
+
 </body>
 
 </html>
