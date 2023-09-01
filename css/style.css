@@ -44,7 +44,7 @@ nav li {
 }
 
 nav li a {
-  border-radius: 5px;
+  border-radius: 4px;
 
 }
 
@@ -112,6 +112,8 @@ li a {
   padding: 8px;
   text-decoration: none;
   color: #343434;
+  padding: 12px 20px;
+
 
 }
 
@@ -131,22 +133,24 @@ textarea {
 
 button[type=submit],
 button[type=reset] {
-  background-color: #04AA6D;
-  color: white;
+  background-color: teal;
+  color: #343434;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  margin-top: 12px;
+  margin-right: 12px;
 }
 
 button[type=submit]:hover,
 button[type=reset]:hover {
-  background-color: #45a049;
+  background-color: #39ff14;
   transition-duration: 0.4s;
 }
 
 .container {
-  border-radius: 5px;
+  border-radius: 4px;
   background-color: #f2f2f2;
   padding: 20px;
 }

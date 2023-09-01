@@ -92,7 +92,6 @@
 - [devdocs](https://devdocs.io/)
 - [cssloaders](https://cssloaders.github.io/)
 - [tinypng](https://tinypng.com/)
-
 ## Documentación
 - [HTML Standard](https://html.spec.whatwg.org/multipage/)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
