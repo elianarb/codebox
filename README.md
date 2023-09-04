@@ -1,4 +1,4 @@
-# FS-del-oeste - TPO - CaC 4.0 Q2 - Com 23542
+# [Codebox](https://matipretz.ar/codebox/) - TPO - CaC 4.0 Q2 - Com 23542
 
 ## Documentación Preliminar del Proyecto 
 
@@ -47,7 +47,7 @@ contacto.
 - Integración con Cafecito: Recibir donaciones que permitan mantener el sitio en linea.
 
 ### 10. Contacto:
-- [Formulario de contacto del Representante](https://matipretz.ar/#contact)
+- [Formulario de contacto del Representante](https://matipretz.ar/codebox/contacto.html)
 
 ### 11. Fecha de Entrega:
 - Tentativa Jueves 19/10/2023.
