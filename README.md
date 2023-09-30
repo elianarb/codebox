@@ -32,6 +32,7 @@
 - Matias Murad
 - Franco Miranda
 - Ricardo Torales
+- Eliana Balbuena 
 
 ### 7. Cronograma Tentativo:
 - Diseño y planificación: 01/09/2023
